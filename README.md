@@ -23,7 +23,7 @@ dentro de este entorno, deberemos instalar las dependencias necesarias con:
 
 o podemos ejecutar requeriments para asi poder correr el codigo con las dependencias necesarias:
 
-                pip install -r requeriments.txt
+                pip install -r requirements.txt
 
 despues, creo un archivo .py que será con el que ejecutaremos la tarea:
 
